@@ -1,0 +1,2767 @@
+[
+{
+  "model": "scraping.city",
+  "pk": 1,
+  "fields": {
+    "name": "Москва",
+    "slug": "moskva"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 2,
+  "fields": {
+    "name": "Санкт-Петербург",
+    "slug": "sanktpeterburg"
+  }
+},
+{
+  "model": "scraping.city",
+  "pk": 3,
+  "fields": {
+    "name": "Вологда",
+    "slug": "vologda"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 1,
+  "fields": {
+    "name": "Python",
+    "slug": "python"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 2,
+  "fields": {
+    "name": "JavaScript",
+    "slug": "javascript"
+  }
+},
+{
+  "model": "scraping.language",
+  "pk": 3,
+  "fields": {
+    "name": "Java",
+    "slug": "java"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 336,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43803674",
+    "title": "Team Lead Python",
+    "company": "ДомКлик",
+    "description": "Разрабатывать API для мобильных, веб-приложений и внутренних сервисов на <highlighttext>Python</highlighttext>. Интегрироваться с партнерами и внутренними системами банка. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 337,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43642994",
+    "title": "Middle-backend Python разработчик / программист",
+    "company": "Центр хранения и анализа больших данных",
+    "description": "Разработка backend web-приложения на <highlighttext>Python</highlighttext>. Упаковка Data Science решений. Сопровождение крупных Заказчиков в сфере ИТ.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 338,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43641737",
+    "title": "Python разработчик",
+    "company": "DEF",
+    "description": "Разработка виртуального рекрутера на <highlighttext>Python</highlighttext> 3. Работа с базами данных на PostgreSQL и MySQL, работа с очередями RabbitMQ. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 339,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43683440",
+    "title": "Lead Data Scientist (Remote option)",
+    "company": "Bell Integrator",
+    "description": "Engage in work on automating data preprocessing & feature engineering methods. Learn new approaches. Conduct experiments, write a lot of code. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 340,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43784551",
+    "title": "Разработчик Python",
+    "company": "GRAFFIT",
+    "description": "Участвовать в разработке архитектуры серверной части продуктов. Писать и запускать тесты. Реализовывать принятую архитектуру. Участвовать в проектировании схем баз данных. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 341,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43661985",
+    "title": "Junior Data scientist (ML/Python)",
+    "company": "ДомКлик",
+    "description": "Разрабатывать и внедрять сервисы, использующие машинное обучение и deep learning. Участвовать в процессе подготовки данных. Разрабатывать различные модели машинного обучения. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 342,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/39388485",
+    "title": "Senior Python Backend Developer (Machine Learning)",
+    "company": "FunCorp",
+    "description": "Сервис распознавания текста из изображений. Сервис нечёткого поиска дубликатов изображений. Сервис рекомендаций контента. Сервис предварительной оценки загружаемого контента. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 343,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43809518",
+    "title": "Junior Python developer",
+    "company": "АО РТСофт",
+    "description": "Разработка нового функционала, оптимизация, рефакторинг и развитие существующего кода на языке <highlighttext>Python</highlighttext> с использованием лучших практик разработки (автоматическое тестирование, код...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 344,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/39736489",
+    "title": "Python-разработчик (Django, DRF)",
+    "company": "ООО Фабрика Решений",
+    "description": "Внимание: с командами не работаем, только с индивидуальными исполнителями. Профессиональный рост и участие в построении архитектур сложных систем.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 345,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43628247",
+    "title": "Разработчик Python (Django)",
+    "company": "ООО Гладс Групп",
+    "description": "Разработка серверной части для мобильных и web приложений на <highlighttext>Python</highlighttext>.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 346,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43797905",
+    "title": "Python Developer / ML Engineer",
+    "company": "Hunt For You",
+    "description": "Разрабатывать фреймворк для weak supervision / semi supervision. Разработка ML pipeline’ов / MLOps. Работать над нашим оупенсорс решением для разметки данных.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 347,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43651376",
+    "title": "Middle Python Developer",
+    "company": "ООО РД Технологии",
+    "description": "Разработка новых фич в ядре фьючерсной и спотовой криптобиржи, платежных терминалах, интеграциях с разнообразными блокчейнами. Оптимизация и поддержка работы текущего...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 348,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43693893",
+    "title": "Аналитик Python",
+    "company": "АО Электронные торговые системы",
+    "description": "Ежедневной выгрузки информации из баз данных компании по запросу от контролирующих органов (ФАС,ФСБ). Еженедельного создания отчётов на основании информации...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 349,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43723943",
+    "title": "Junior Computer Vision Engineer",
+    "company": "Neurus",
+    "description": "Желание работать и развиваться. Можешь читать на английском. Выпускник компьютерных наук или смежных областей. Увлекаешься программированием. Желание работать с моделями...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 350,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42277259",
+    "title": "Python-разработчик",
+    "company": "ivi",
+    "description": "Качественный опыт написания кода на <highlighttext>python</highlighttext>. Опыт работы с golang будет преимуществом. Свободное владение linux (bash, sed, grep и другие...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 351,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43796349",
+    "title": "Python-разработчик",
+    "company": "IVIDEON",
+    "description": "Проектировать архитектуру новых сервисов. Разрабатывать API приложений и интеграции.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 352,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43371507",
+    "title": "Golang/Python разработчик",
+    "company": "Баззула Интернет Технологии",
+    "description": "Дополнять список поддерживаемых рекламных форматов, моделей оплаты и др. Минимальные требования к кандидатам. — <highlighttext>Python</highlighttext>: Будет использоваться для кеширования данных из...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 353,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43422264",
+    "title": "Data Scientist / ML Engineer",
+    "company": "ООО Адаперио",
+    "description": "Разработка и внедрение моделей машинного обучения для оценки качества и ликвидности автомобиля с пробегом. Анализ датасетов, их подготовка, валидация. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 354,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42691024",
+    "title": "Разработчик Python (Удалённая работа)",
+    "company": "Ситилаб, Научно-методический центр клинической лабораторной диагностики",
+    "description": "Разработка back-end. Разработка front-end. Участие в проектировании архитектуры. Документирование/тестирование написанного кода.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 355,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43693023",
+    "title": "Python / C++ разработчик",
+    "company": "Wunder Fund",
+    "description": "Разбираться с тонкостями внутреннего устройства бирж. Разрабатывать и поддерживать парсеры биржевых данных. Разрабатывать, профилировать и оптимизировать код, торгующий на разных...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 356,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/41469811",
+    "title": "Data Engineer",
+    "company": "ООО Айти-Солюшнс",
+    "description": "Работа с DWH, проектирование схем для хранения данных. Загрузка данных из различных источников (как внутренние БД, так и внешние аналитические...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 357,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/30005963",
+    "title": "Python developer",
+    "company": "NetworkOptix",
+    "description": "Разрабатываем на <highlighttext>Python</highlighttext> 3.8. Используем pytest в качестве тестового фреймворка. Храним код в Git/Gerrit. Проводим ревью в Gerrit...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 358,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43282114",
+    "title": "Разработчик Python",
+    "company": "ООО Доверенная среда",
+    "description": "Продукт постоянно развивается, появляются новые задачи, поэтому важны способности к освоению новых технологий. От вас хотим участия в разработке новых...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 359,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43825932",
+    "title": "Junior Data Scientist",
+    "company": "Институт прикладных экономических исследований РАНХиГС при Президенте Российской Федерации",
+    "description": "Сбором и анализом неформализованных данных из разнообразных источников. Построением экономических моделей. Разработкой и сопровождением экономических информационных систем. Разработка, тестирование и...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 360,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43308988",
+    "title": "Python разработчик (Django)",
+    "company": "ООО Апптимизм",
+    "description": "Для нас важнее системное мышление, умение писать читабельный и поддерживаемый код, понимание базовых принципов работы баз данных и построения запросов...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 361,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43242292",
+    "title": "Разработчик-Python (Django, DRF)",
+    "company": "ООО Фабрика Решений",
+    "description": "Внимание: с командами не работаем, только с индивидуальными исполнителями. Профессиональный рост и участие в построении архитектур сложных систем.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 362,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43128938",
+    "title": "Lead Python developer/Data Engineer",
+    "company": "IT_Selection",
+    "description": "Разработка, внедрение и поддержка data pipelines для наших моделей Machine learning. Способствовать развитию и улучшению используемых моделей и процессов Machine...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 363,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43608616",
+    "title": "Data Scientist",
+    "company": "ООО Гудфокаст",
+    "description": "Проведение исследований и создание моделей в следующих областях: прогнозирование спроса, управление товарными запасами, прогнозирование эффектов промо-акций, построение оптимальных расписаний...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 364,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43558794",
+    "title": "Программист Python",
+    "company": "ООО Лендсбэй",
+    "description": "Уверенное знание <highlighttext>python</highlighttext> 3.х, с опытом работы от 1 года. Понимание работы asyncio, многопоточности, высоконагруженных приложений. Желателен опыт с...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 365,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43042683",
+    "title": "Teamlead / Senior Python developer/ Middle Python developer",
+    "company": "ASD Korea",
+    "description": "Участие в разработке бэкенда Cloudike Business. Участие в разработке ПК клиента Cloudike Business. Написание и поддержка юнит-тестов для своего...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 366,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43624444",
+    "title": "Middle разработчик Python / Django (удалённо)",
+    "company": "ООО Диджитал Пайн",
+    "description": "Выверенный годами баланс между дисциплиной и свободой.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 367,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42077815",
+    "title": "Senior Python backend developer",
+    "company": "ООО Талала",
+    "description": "Gitlab CI/CD. Разработка API. Разработка высоконагруженных сервисов. Взаимодействие с фронт-энд разработчиками для обсуждения интерфейса бекэнда. Участие в проектировании...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 368,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/40547800",
+    "title": "Python разработчик",
+    "company": "ООО Константа",
+    "description": "Популярные приложения с посещаемостью свыше 300к ежедневно. Технически сложные сервисы, заточенные под решение внутренних задач. Data science продукты для...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 369,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43377570",
+    "title": "Junior Quantitative Researcher",
+    "company": "Alber Blanc",
+    "description": "Изучение и модификация существующих алгоритмов. Реализация торговых идей, как ваших, так и от старших коллег, и их отработка в боевых...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 370,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43797384",
+    "title": "Junior Data Scientist",
+    "company": "Сбер для экспертов",
+    "description": "Построение моделей по направлению Транзакционный бизнес. Работа с данными - проведение аналитики по запросам от владельцев процессов, поиск инсайтов методами ML...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 371,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43766255",
+    "title": "Разработчик Python",
+    "company": "ООО А 3",
+    "description": "Сопровождение и развитие интеграционной подсистемы компании. Используемый стек:",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 372,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43703343",
+    "title": "Junior Django Developer",
+    "company": "ЭкспрессДеньги",
+    "description": "Работа в команде над сервисом онлайн займов эд.рф с использованием фреймворка Django.",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 373,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43155622",
+    "title": "Data Engineer (Clickhouse), удаленно",
+    "company": "ООО Эйч-Эль-Эль",
+    "description": "Проектирование, разработка и поддержка инфраструктуры для хранения и обработки данных в ClickHouse. Разработка и оптимизация ETL-процессов обработки и анализа...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 374,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43766237",
+    "title": "Data scientists, Младший (Junior)",
+    "company": "ООО КВАНТ ПРОГРАММ",
+    "description": "Совместная работа над проектами в команде. Подготовка и предобработка данных. Поиск закономерностей в датасетах и наборах данных. Участие в генерации...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 375,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43816988",
+    "title": "Разработчик Python",
+    "company": "ООО Квазар Оптикс",
+    "description": "Поддержка существующего кода, в том числе и достаточно старого (> 7 лет). - Разработка новых проектов с нуля, от архитектуры до документации. - ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 376,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43351933",
+    "title": "Python/Django Full Stack Developer (Middle-Senior)",
+    "company": "HoloMe",
+    "description": "Разработка API для мобильных и web приложений. Разработка Front-end для частичного администрирования серверной части. Написание документации по нововведениям/изменениям...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 377,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43757805",
+    "title": "Разработчик Big Data",
+    "company": "Бизнес-Азимут",
+    "description": "Работа на проекте банка - Доработка озера данных. Тиражирование документации по шаблону банка по всем потокам (инcтрументы word, confluence). ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 378,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/41541061",
+    "title": "Python разработчик Senior",
+    "company": "ООО Строительный Двор",
+    "description": "Разработка бизнес-систем (автоматизация бизнес-процессов). Оптимизация сервисов под высокие нагрузки. Проектирование и реализация веб и API-сервисов. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 379,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43314180",
+    "title": "Python developer",
+    "company": "B2Broker Москва",
+    "description": "Имеет опыт коммерческой разработки на <highlighttext>Python</highlighttext> 3 от 6 лет. Знает и умеет использовать: итераторы, генераторы, потоки. Отлично владеет знаниями...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 380,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43661388",
+    "title": "Python Программист-разработчик",
+    "company": "ООО Верме",
+    "description": "Основной сервис планирования: клиент - самописный MVC-подобный движок, отдельные компоненты на vue.js, графика на canvas, сервер - Django, <highlighttext>Python</highlighttext>, PostgreSQL. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 381,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/37486302",
+    "title": "Python разработчик",
+    "company": "АО Семейный доктор",
+    "description": "Каждая клиника поддерживает приоритеты компании – высокий уровень медицинского обслуживания, соблюдение международных стандартов оказания услуг, чуткое отношение к пациентам и забота...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 382,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43186332",
+    "title": "Senior Backend-разработчик (Python)",
+    "company": "Hoodies",
+    "description": "Организация получения обновлений: WebSocket, SRDT (logux и др.).",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 383,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43815837",
+    "title": "Python senior developer / Старший Python-Разработчик",
+    "company": "BestDoctor",
+    "description": "Ядро: ключевая архитектура и API нашей айти-инфраструктуры. Пользовательская разработка: мобильные приложения, веб-кабинеты, API для внешних интеграций. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 384,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43815825",
+    "title": "Python middle developer/ Python-Разработчик",
+    "company": "BestDoctor",
+    "description": "Ядро: ключевая архитектура и API нашей айти-инфраструктуры. Пользовательская разработка: мобильные приложения, веб-кабинеты, API для внешних интеграций. ",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 385,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43627174",
+    "title": "Middle Python Backend developer",
+    "company": "Center-Game",
+    "description": "Придумывать и разрабатывать проекты для онлайн-обучения. Поддерживать имеющиеся рабочие продукты. Обсуждать, критиковать и находить новые варианты для реализации новых...",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 386,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/automation-qa-engineer-36691118.html",
+    "title": "Automation QA Engineer / Тестировщик (Python)",
+    "company": "Грандстафф",
+    "description": "Анализ требований. Разработка автотестов на Python. Актуализация автотестов. Разбор ошибок. Формирование отчетовОпыт автоматизации тестирования от 2х лет. Опыт разработки тестов на Python, Pytest. Опыт автоматизированного тестирования API",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 387,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/python-developer-36526394.html",
+    "title": "Python developer",
+    "company": "Онкарго",
+    "description": "Full stack-разработка и развитие аналитической системы. Участие в функциональном и технологическом проектировании компонент…Хорошее знание и опыт разработки Python 3 - 2-3 года. Опыт работы с реляционными базами данных (Oracle, PostgreSQL) и знание…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 388,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/python-team-lead-36050681.html",
+    "title": "Python Team lead",
+    "company": "Компания стартап, резидент Сколково",
+    "description": "Создание, согласование и документирование архитектуры решения. По функциональным требованиям составлять эпики, декомпозировать…Экспертный уровень Python, присылайте примеры кода в Github. Опыт управления командной разработки от 1 года, проведение код…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 389,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/programmist-python-36410905.html",
+    "title": "Программист Python",
+    "company": "Level Up Developers",
+    "description": "Создавать сайты на Django. Переводить пожелания продукт-менеджера на язык тех.задания. Делать чат-ботов. Проводить код-ревью…Уровень Senior Python Developer. Опыт коммерческой веб-разработки от 3 лет. Python. Django. Docker. Фронтенд на React / Vue.js",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 390,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle-python-developer-36639575.html",
+    "title": "Middle Python Developer",
+    "company": "Умные технологические решения",
+    "description": "Компания Cleverbots - ИИ бизнес-партнер, оказывающий полный цикл услуг от консалтинга до интеграции решений на базе технологий…Уверенный уровень знания Python 3. Большой опыт разработки Django приложений. Навыки деплоя в production, Docker, Git (gitflow…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 391,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/programmist-python-36566638.html",
+    "title": "Программист Python",
+    "company": "Фирма ВОДОКОМФОРТ",
+    "description": "Опыт работы от 3 лет. Знание технического английского обязательно. Знание: Python 3+. Уметь разбираться в чужом коде. Знание…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 392,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/analitik-v-otdel-planirovaniya-35583105.html",
+    "title": "Аналитик в отдел планирования (SQL, Python/R)",
+    "company": "Мегаполис",
+    "description": "В компании на данный момент открыта позиция \"Старший аналитик\" ЗАДАЧИ ДЛЯ ВАС: Разработка новых моделей планирования и аналитики…В настоящее время ГК МЕГАПОЛИС обладает крупнейшим портфелем контрактов, включая контракты на дистрибуцию в РФ: Табачной…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 393,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/senior-python-developer-36391472.html",
+    "title": "Senior Python Developer",
+    "company": "Кадровое агентство IT and Digital",
+    "description": "Каждая задача проходит код-ревью. Участвовать в ревью кода коллегОпыт работы Python-разработчиком в команде от трёх лет. Уверенное владение Python-3, знание слабых и сильных сторон. Хорошее…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 394,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/arhitektor-baz-dannyh-36623046.html",
+    "title": "Архитектор баз данных, разработчик SQL, Python",
+    "company": "Новые технологии",
+    "description": "Проектирование архитектуры баз данных. Разработка баз данных. Оптимизация баз данных. Автоматизации технологических и бизнес…Опыт работы с большими объемами данных. Надо иметь представление о высоконагруженных сервисах. Знание алгоритмов нормализации БД",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 395,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/sistemnyj-administrator-36663960.html",
+    "title": "Системный администратор",
+    "company": "Атлас Трейд",
+    "description": "Обеспечение бесперебойной работы IT инфраструктуры компании и удаленных сотрудников (30 пользователей). Подбор, закупка и…Опыт работы с внешними командами, умение четко поставить задачу, согласное требованиям бизнеса и проконтролировать ее исполнение",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 396,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/produktovyj-analitik-33473129.html",
+    "title": "Продуктовый аналитик",
+    "company": "SuperJob",
+    "description": "SuperJob — интернет-сервис по поиску работы и сотрудников. Анализа показателей поведения пользователей на сайте и воронки…Мы ожидаем от кандидата опыт. Продвинутый уровень использования Google analytics, Яндекс.Метрики, Excel, Appsflyer. Опыт…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 397,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/sistemnyj-administrator-asterisk-36613060.html",
+    "title": "Системный администратор Asterisk, инженер VoIP",
+    "company": "Айпителефон",
+    "description": "Администрирование Linux (Redhat, Centos, Debian, Ubuntu). Администрирование виртуальной SIP ATC, Asterisk. Администрирование сетиВысшее или неоконченное высшее образование. Любознательность и пытливый ум. Понимание протокола SIP. Понимание принципов…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 398,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/programmist-pyrus-35374424.html",
+    "title": "Программист pyrus",
+    "company": "Детский хоспис \"Дом с маяком\"",
+    "description": "Выстраивать и автоматизировать рабочие процессы в системе Pyrus. Поддержка работы пользователей в системе Pyrus. Написание…Профильное высшее образование в области IT (программирование). Уверенное владение Python. Умение разбираться в исходных кодах…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 399,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/produktovyj-analitik-35765100.html",
+    "title": "Продуктовый аналитик (Команда цифровых продуктов и сервисов)",
+    "company": "МТС",
+    "description": "Создавать и поддерживать систему продуктовых метрик. Формировать дашборды из разных источников данных о продуктах. Выдвигать…Знание google analytics (как плюс, сертификат GAIQ), google data studio. Знание google sheets и google app script. Знание…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 400,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/programmist-36373301.html",
+    "title": "Программист",
+    "company": "\"НМИЦ кардиологии\" Минздрава России",
+    "description": "Коммуникация с тех.поддержкой сервисов. Поддержка устройств печати. Поддержка программного обеспеченияЗнание и умение применять на практике язык SQL (приветствуется знакомство с диалектом Oracle). Знание основ языка Oracle…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 401,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/devops-inzhener-36373361.html",
+    "title": "DevOps инженер",
+    "company": "Икс-про",
+    "description": "- Администрирование физических и виртуальных серверов с Linux. Мониторинг и поддержка работоспособности СУБД и микросервисовХорошие знания Linux. Уверенные знания PostgreSQL и опыт администрирования высоконагруженных инстансов (организация кластера…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 402,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/inzhener-proektirovschik-it-i-slabotochnyh-setej-36072193.html",
+    "title": "Инженер-проектировщик ИТ и слаботочных сетей (ЛВС, СКС)",
+    "company": "Видау Системс",
+    "description": "Разработка проектной и рабочей документации по разделам: СКС, ЛВС. Выполнение необходимых расчётов и подбор оборудованияОпыт работы от 3 лет в похожей должности. Высшее профильное образование. Базовый опыт администрирования серверов на OS Windows…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 403,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/prepodavatel-29410403.html",
+    "title": "Преподаватель (педагог) робототехники/программирования",
+    "company": "Эдисон центр",
+    "description": "Высшее техническое или педагогическое образование (возможны студенты последних курсов), опыт работы в других кружках робототехники…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 404,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/funkcionalnyj-testirovschik-36502796.html",
+    "title": "Функциональный тестировщик",
+    "company": "Сбербанк России",
+    "description": "Что нужно будет делать:Проведение тестирования сервисов Ассистента B2B и Чат-бота с фиксированием результатов, регистрацией…Опыт работы не менее 2-х летЗнания основ создания основ реляционных баз данных;Будет преимуществом опыт разработки на одном…",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 405,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/fizik-eksperimentator-36171917.html",
+    "title": "Физик-экспериментатор",
+    "company": "Новые спинтронные технологии",
+    "description": "Наша компания «Новые спинтронные технологии» входит в группу компаний Российского Квантового Центра и разрабатывает новые…Отличные знания общей физики, базовые знания теоретической физики и магнетизма. Навыки программирования (LabView, C, Python)",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 406,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073768",
+    "title": "Backend Developer /QA developer",
+    "company": "Runexis",
+    "description": "Бэкенд, Средний (Middle) · Python · Golang · C++ · SQL · gRPC · GraphQL",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 407,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073775",
+    "title": "Lead Network Developer",
+    "company": "Runexis",
+    "description": "Бэкенд, Ведущий (Lead) · C++ · Python · Docker · GraphQL · Linux · gRPC · Tcp",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 408,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000066496",
+    "title": "Senior Backend developer",
+    "company": "Группа «Самолет»",
+    "description": "Бэкенд, Старший (Senior) · Python · Django · SQL",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 409,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000059452",
+    "title": "Senior Python Engineer (remote)",
+    "company": "Spark Equation",
+    "description": "Бэкенд, Старший (Senior) · Python · Flask · JavaScript · PostgreSQL · ReactJS · SQL · Nosql · Git · Архитектура по",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 410,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073860",
+    "title": "Developer C++/Python Monorepo",
+    "company": "Лаборатория Касперского",
+    "description": "Разработка ПО · C++ · Python",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 411,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073854",
+    "title": "Инженер по тестированию",
+    "company": "InfoWatch",
+    "description": "Тестирование, Средний (Middle) · Python · Python",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 412,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073356",
+    "title": "QA engineer (Тестировщик ПО)",
+    "company": "СИГМА",
+    "description": "Тестирование, Средний (Middle) · JavaScript · C# · Python",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 413,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073337",
+    "title": "Специалист по тестированию (Интеграция логистических провайдеров, Маркетплейс)",
+    "company": "OZON",
+    "description": "Тестирование, Средний (Middle) · Python · C# · SQL",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 414,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074300",
+    "title": "Middle QA Automation",
+    "company": "Softline",
+    "description": "Тестирование, Средний (Middle) · Python · Java · Scala · Тестирование ПО · Автоматизация тестирования",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 415,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073338",
+    "title": "Специалист по тестированию (Интеграция логистических провайдеров, Маркетплейс)",
+    "company": "OZON",
+    "description": "Тестирование, Средний (Middle) · Python · C#",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 416,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074298",
+    "title": "Senior Python Разработчик",
+    "company": "Softline",
+    "description": "Бэкенд, Старший (Senior) · Python · Git · SQL · Flask",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 417,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000070905",
+    "title": "DWH-разработчик (департамент бизнес-процессов)",
+    "company": "Mail.ru Group",
+    "description": "Бэкенд, Средний (Middle) · Scala · Spark · Python · Dwh",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 418,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073334",
+    "title": "Разработчик Go (Тарификатор, Маркетплейс)",
+    "company": "OZON",
+    "description": "Бэкенд, Средний (Middle) · PHP · Python · SQL · Docker · PostgreSQL · Golang · Git",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 419,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000052089",
+    "title": "Support application engineer",
+    "company": "Sportmaster Lab",
+    "description": "Администрирование, Средний (Middle) · Python · MySQL · PostgreSQL · Nginx · Zabbix · Администрирование Linux · Devops",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 420,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073314",
+    "title": "Team Lead data scientist",
+    "company": "МегаФон",
+    "description": "Менеджмент, Ведущий (Lead) · Python · SQL · Spark · Oracle · Hadoop",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 421,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073794",
+    "title": "Разработчик python",
+    "company": "Группа «Самолет»",
+    "description": "Бэкенд, Средний (Middle) · Python · Django · PostgreSQL",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 422,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000035618",
+    "title": "Разработчик Python",
+    "company": "Баланс-Платформа",
+    "description": "Бэкенд, Средний (Middle) · Python · Flask · Rabbitmq · asyncio · PostgreSQL · Git",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 423,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000072010",
+    "title": "Системный администратор (Atlassian)",
+    "company": "Авито",
+    "description": "Администрирование, Средний (Middle) · Python · Jira",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 424,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000068442",
+    "title": "Инженер Zabbix",
+    "company": "ЛАНИТ",
+    "description": "Разработка ПО, Старший (Senior) · Zabbix · Linux · ELK Stack · Grafana · SQL · Bash · Unix shell scripting · Python · Powershell · Nagios · Prometheus · Git · Jira · Docker",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 425,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000062321",
+    "title": "Python разработчик (middle / senior)",
+    "company": "X5 Retail Group",
+    "description": "Бэкенд, Старший (Senior) · Python",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 426,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000071665",
+    "title": "Аналитик (Системы прогнозирования Кэжуал)",
+    "company": "Sportmaster Lab",
+    "description": "Аналитика · SQL · Python · Microsoft Excel",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 427,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000068978",
+    "title": "Software Development Engineer in Test",
+    "company": "Лаборатория Касперского",
+    "description": "Тестирование · Разработка программного обеспечения · Python · Автоматизация · Linux",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 428,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000069089",
+    "title": "Software Development Engineer in Test",
+    "company": "Лаборатория Касперского",
+    "description": "Тестирование · Python · Linux",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 429,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000068840",
+    "title": "DevOps Engineer (Content Filtering Research)",
+    "company": "Лаборатория Касперского",
+    "description": "Разработка ПО · Python · Linux",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 430,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000066001",
+    "title": "Software Development Engineer in Test",
+    "company": "Лаборатория Касперского",
+    "description": "Тестирование · Python",
+    "city": 1,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 431,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43144476",
+    "title": "Frontend-разработчик",
+    "company": "Билайн: ИТ и Digital",
+    "description": "Проектировать и создавать интерфейсы личных кабинетов. Разработка Web-интерфейсов на <highlighttext>JavaScript</highlighttext>.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 432,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43784847",
+    "title": "Node.JS Backend developer",
+    "company": "Messapps",
+    "description": "Design and implementation of API protocols for various front-end parts. - Design and implementation of architecture and databases. - ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 433,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43642940",
+    "title": "Middle-frontend JavaScript разработчик / программист",
+    "company": "Центр хранения и анализа больших данных",
+    "description": "Разработка новых и доработка старых интерфейсов веб-сайтов, мобильных приложений и смежных сервисов. Сопровождение крупных Заказчиков в сфере ИТ. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 434,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/41135370",
+    "title": "PHP Разработчик",
+    "company": "Сионик",
+    "description": "Проекты реализованы на PHP (с использованием фреймворков) + <highlighttext>JS</highlighttext> (React.js, Vue.js). Поддержка нескольких существующих проектов на PHP + <highlighttext>JS</highlighttext>. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 435,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/41810429",
+    "title": "Senior Front-end Developer (JavaScript, React)",
+    "company": "HeadHunter::Frontend",
+    "description": "Работу над самым высоконагруженным job-сайтом в России. Продуктовая разработка проработка задачи с первых этапов, декомпозиция, кодинг, отслеживание результатов. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 436,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43565682",
+    "title": "React Native Developer",
+    "company": "ООО СДевс",
+    "description": "Рефакторинг существующих решений и разработка новых фич для iOS приложений на React Native. Участие в code reviews. Работа над устранением...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 437,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42170447",
+    "title": "Разработчик full-stack javascript (remote)",
+    "company": "Luminati",
+    "description": "сайт. - контрольная панель для кастомеров. - биллинг. - плеер. - серверный код плеера. - сайт. - контрольная панель для кастомеров. - биллинг. - внутренние утилиты (все самописное...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 438,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43797947",
+    "title": "Full stack/backend разработчик",
+    "company": "ООО Инженерно-Маркетинговый Центр Айдипи",
+    "description": "Продукт - Видеосервис с возможностью видеозвонков и передачи видеосообщений, с интегрированным маркетплейсом для определенной целевой аудитории. Сервис должен быть разработан для...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 439,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43652292",
+    "title": "JavaScript Developer",
+    "company": "JuicyScore",
+    "description": "Дополнительные инструкции:",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 440,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43352965",
+    "title": "Senior Frontend developer (Crypto, JavaScript/ReactJS/TypeScript)",
+    "company": "Bitsgap Holding",
+    "description": "Осуществляет просмотр кода других разработчиков. Консультирует и следит за тем, чтобы мы выбирали лучшие решения для разработки. Подключает готовые свёрстанные...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 441,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43659684",
+    "title": "Верстальщик\\frontend-разработчик",
+    "company": "KISLOROD",
+    "description": "Входим в ТОП100 компаний с экспертизой в сложной веб-разработке и интеграции интернет-решений по версии рейтинга Tagline. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 442,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43594214",
+    "title": "Frontend developer React.js (middle), Remote",
+    "company": "Yupana.io",
+    "description": "Technical test.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 443,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43824070",
+    "title": "Front-end разработчик / верстальщик (удаленно)",
+    "company": "ООО ОптималГрупп",
+    "description": "1) Верстка по готовым макетам и ТЗ (figma, реже - psd). Часто есть интересные задачи на что-то нетиповое, интересное, динамичное. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 444,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43248646",
+    "title": "Middle Frontend developer (Remote) (JavaScript/ReactJS/TypeScript)",
+    "company": "Bitsgap Holding",
+    "description": "Обязательное: Уверенное знание <highlighttext>JavaScript</highlighttext>, TypeScript, React. Высокий уровень. Опыт или интерес к крипто- проектам. Опыт разработки фронтенда сложных веб-приложений. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 445,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43529795",
+    "title": "Ведущий Frontend разработчик (VueJS) / разработчик Frontend",
+    "company": "WINLINE",
+    "description": "Участие в разработке новых и существующих проектов компании. Адаптивная и кроссбраузерная верстка (будет большим плюсом).",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 446,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43764834",
+    "title": "Frontend developer (Javascript)",
+    "company": "ООО ИНИТИ",
+    "description": "Разработка web-приложения для отображения данных в реальном времени.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 447,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43748345",
+    "title": "Junior front-end разработчик в онлайн школу",
+    "company": "Продюсерский центр ES",
+    "description": "Создание программных решений для оптимизации процессов и построения механизмов воронки. Верстка сложных элементов с которыми не справляется младший сотрудник. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 448,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42867304",
+    "title": "Ведущий Javascript (фронт-энд) разработчик",
+    "company": "ООО Прогрэдис",
+    "description": "Развивать существующие веб-приложения, автоматизирующие сложные задачи для крупных корпоративных заказчиков. Активно участвовать в проектировании и разработке клиентской архитектуры приложений. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 449,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43614646",
+    "title": "Backend Developer на Node.js (Удаленно)",
+    "company": "TalkTime",
+    "description": "TalkTime – онлайн-платформа для оказания психологической помощи. Участвовать в проектировании и разработке серверной части наших приложений. Поддерживать и улучшать существующие...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 450,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43244378",
+    "title": "Программист-секретарь Python/JavaScript",
+    "company": "ООО ИнфоТех",
+    "description": "Секретарской работы минимум! Основной работой будет участие в создании нового интересного проекта. Вам придется спроектировать и написать с нуля большую...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 451,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43701840",
+    "title": "Разработчик Javascript (Angular)",
+    "company": "Cool.club",
+    "description": "Разработка Angular-приложения. Командная работа для выработки совместных идей по реализации и предоставлению альтернативных решений. Оптимизация существующих проектов.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 452,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43734924",
+    "title": "Full-Stack JavaScript Developer",
+    "company": "ООО Аймекс",
+    "description": "доска объявлений. - система складского учета. - торговая площадка. - парсер и агрегатор внешних источников объявлений. - система подготовки электронных документов. - омниканальный чат.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 453,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43807376",
+    "title": "Frontend разработчик (React, JavaScript) / React Developer",
+    "company": "Mental Growth",
+    "description": "Разрабатывать web-сайты на глобальный рынок с учетом их локализации. Создавать лендинги и верстку страниц сайтов компании. Разрабатывать с 0...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 454,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43790361",
+    "title": "Веб-разработчик / Верстальщик (программирование сайтов)",
+    "company": "ИП Юсупов Альфред Шамилевич",
+    "description": "Старт-Ап/Start-up. Развитие , создание, продвижения внутреннего продукта.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 455,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43734780",
+    "title": "Junior Fullstack web-разработчик",
+    "company": "ООО ТК Болт.Ру",
+    "description": "Технологический стек: Node.js, MySQL, ElasticSearch, Docker, Nginx, GIT. Программирование микросервисов для бекенда. Проектирование архитектуры. Разработка компонентов React / Vue.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 456,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43823555",
+    "title": "HTML-верстальщик",
+    "company": "ООО Скандерм Про",
+    "description": "Элегантно взаимодействовать с командой из разработчиков, дизайнеров, руководителей. Гибкая - в неё легко можно вносить правки.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 457,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43547565",
+    "title": "Frontend Developer JavaScript (React/Vue) (Middle, Remote)",
+    "company": "Mascot Gaming",
+    "description": "Проектирование и разработка фронтенд части приложений (игр). Рефакторинг, поддержка и развитие кодовой базы. Взаимодействие с разработчиками, тестировщиками, дизайнерами, менеджерами и...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 458,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43562944",
+    "title": "Frontend-разработчик (Верстальщик)",
+    "company": "ООО Гензис",
+    "description": "Верстка страниц сайта используя шаблонизатор. Верстка dashboard-ов. Учет работ во внутренней системе управления проектами.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 459,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43479041",
+    "title": "Frontend-разработчик",
+    "company": "ООО Билдбилд Лаб",
+    "description": "Разработка платформы для управления строительством в молодой и бурно развивающейся компании. Проработка фичей вместе с продакт-менеджерами.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 460,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43475623",
+    "title": "Frontend-разработчик",
+    "company": "ООО Окрестный мир",
+    "description": "опыт коммерческой разработки в команде от 1 года. - хорошие знания <highlighttext>JavaScript</highlighttext>, TypeScript. - понимание REST. - понимание CI, Docker. - умение пользоваться Git...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 461,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43821840",
+    "title": "JavaScript разработчик",
+    "company": "ООО КИБЕРБОРЕЯ",
+    "description": "Написание юнит-тестов.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 462,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43718717",
+    "title": "Frontend developer",
+    "company": "DiagnoCat",
+    "description": "Diagnocat — стартап на стыке AI и медицины, делаем анализ стоматологических снимков и автоматическую диагностику. Наш продукт берёт разнообразные снимки (рентген...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 463,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43224331",
+    "title": "JavaScript Developer / Верстальщик сайтов",
+    "company": "ООО GloboGames",
+    "description": "Разрабатывать frontend часть игровых проектов и сайтов компании. Поддерживать различные проекты компании, созданные с использованием React и Typescript. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 464,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43494451",
+    "title": "PHP Full-stack (Laravel, Vue.js) developer",
+    "company": "GoSuperb",
+    "description": "Веб разработка. - Работа в команде.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 465,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43424239",
+    "title": "JavaScript разработчик (удаленно)",
+    "company": "StormWall™",
+    "description": "Создавать и поддерживать архитектуру серверной части проекта. Документировать и покрывать тестами код, (для новых фич использовать TDD). Разрабатывать и развивать...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 466,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43436176",
+    "title": "Html-верстальщик/frontend-разработчик (+vue)",
+    "company": "Oxem Studio",
+    "description": "Современный процесс разработки, командная работа, молодой дружный коллектив, помощь и поддержка. Мы используем git, GitLab CI\\CD, Docker и др. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 467,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42322721",
+    "title": "Junior frontend developer / Стажер-разработчик Javascript",
+    "company": "Zecurion",
+    "description": "Написание пользовательского Web-интерфейса. Взаимодействие с QA-департаментом.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 468,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43393832",
+    "title": "Frontend developer (фронтенд разработчик)",
+    "company": "AppMagic",
+    "description": "Фреймворк и компоненты: Typescript, Angular (10+), Storybook, Material, RxJs, Highcharts, Jest, Sass. Jira / Confluence. Инфраструктура и backend: Gitlab, Docker...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 469,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43378072",
+    "title": "Frontend-разработчик (Junior+ , удалённо)",
+    "company": "ФИЗИКОН",
+    "description": "Разработка, поддержка и модернизация пользовательского интерфейса веб-приложения образовательной направленности.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 470,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43668357",
+    "title": "PHP-программист",
+    "company": "ПДА ПАРТ",
+    "description": "Не делаем задачи «чтобы было». Любим прямые «не бюрократизированные» коммуникации. Планирование решений до написания кода, построение архитектуры.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 471,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43676507",
+    "title": "JavaScript Developer",
+    "company": "Gridnine Systems",
+    "description": "Разработка и сопровождение интернет-решений, в основном одностраничных приложений (SPA).",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 472,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43475734",
+    "title": "Frontend-разработчик / Верстальщик (удаленно)",
+    "company": "NOVA",
+    "description": "Мы оказываем полный комплекс работ по обслуживанию бизнеса в интернете: выполнение проектов различной сложности, настройка рекламы и продажа ПО. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 473,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43240929",
+    "title": "Разработчик front-end",
+    "company": "ООО КАРТИС",
+    "description": "Ищем в команду человека на полную занятость в офис для поддежки существующих и разработки новых проектов. - Поддержка и оптимизация существующих...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 474,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43085384",
+    "title": "Middle frontend разработчик (JavaScript / React / React Native), удаленно",
+    "company": "ООО Диджитал Пайн",
+    "description": "Необходимые навыки: Уверенное владение <highlighttext>JavaScript</highlighttext> (ES5 и ES6). Опыт вёрстки на основе PSD / Figma / Sketch (что-то из...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 475,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43761399",
+    "title": "JavaScript-разработчик (React) / Front-End разработчик (React)",
+    "company": "ООО НЕКСТ",
+    "description": "Разработка пользовательских интерфейсов (React, Redux). Участие в разработке архитектуры. Взаимодействие со смежными командами (Java, QA, Видеоаналитика). Проведение code-review. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 476,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43697271",
+    "title": "Junior backend-разработчик/PHP-developer",
+    "company": "SmmTouch LLC",
+    "description": "По мере экспертного роста сложность усложняется. От небольших доработок к разработке сложных задач, в том числе международных, и нового функционала.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 477,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43455887",
+    "title": "Frontend developer (Vue.js) Remote",
+    "company": "Yupana.io",
+    "description": "Technical test.",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 478,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/42242091",
+    "title": "Senior React developer",
+    "company": "ООО СофтПро",
+    "description": "Разрабатываем целую линейку продуктов для разных платформ (web, mobile): торговый терминал, агрегатор котировок и мессенджер. Собираем код с помощью Webpack. ",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 479,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43479067",
+    "title": "Backend Developer Node.js (удаленно)",
+    "company": "Umnico",
+    "description": "Мы помогаем компаниям повышать уровень клиентского сервиса и зарабатывать больше за счет увеличения скорости и качества обслуживания. Наши продукты: - Inbox...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 480,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43200701",
+    "title": "Middle - Senior front-end разработчик (React + Typescript)",
+    "company": "CSSSR",
+    "description": "Работать много и хорошо, писать качественный продукт. Разрабатывать новую функциональность продукта с использованием TypeScript, React. Перерабатывать существующий код под чистую...",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 481,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/razrabotchik-s-29883192.html",
+    "title": "Разработчик С# ASP.NET Javascript (react)",
+    "company": "Такском",
+    "description": "Проектирование и разработка систем электронного документооборота. Разработка архитектуры систем, состава и структуры компонентовПриглашаем в команду Fullstack разработчика С#ASP.NET MVC. Опыт участия в полном цикле проекта: сбор требований; проработка…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 482,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle-frontend-developer-36486332.html",
+    "title": "Middle Frontend Developer / JavaScript React разработчик (удаленно)",
+    "company": "Nemo.Travel",
+    "description": "Работа в команде с другими разработчиками, менеджерами и тестерами. Разработка и сопровождение frontend-приложений для авиакомпаний…Имеете опыт коммерческой разработки больше 3 лет. Владеете React. Отлично владеете TypeScript и понимаете для чего он нужен",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 483,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle-javascript-razrabotchik-36468365.html",
+    "title": "Middle JavaScript разработчик (для стоматологический компании)",
+    "company": "EPAM Anywhere",
+    "description": "Анализ требований на предмет технической осуществимости и участие в разработке решений. Диагностика и исправление ошибок…Опыт разработки на JavaScript от 2-х лет. Опыт работы с React. Опыт работы с TypeScript. Знание Node.js. Опыт разработки…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 484,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/razrabotchik-web-prilozhenij-36419754.html",
+    "title": "Разработчик Web-приложений (JavaScript, React)",
+    "company": "АКСИТЕХ",
+    "description": "Разработка и проектирование новых Web-приложений. Поддержка существующих Web-приложенийУверенное владение JS, NodeJS, ReactJS, HTML, CSS. Умение писать качественный поддерживаемый код. Инициативность, готовность…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 485,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/razrabotchik-javascript-27835879.html",
+    "title": "Разработчик JavaScript",
+    "company": "Фирма КАЛИТА",
+    "description": "Поддержка существующего функционала ПО и разработка новогоОпыт работы от 3-х лет. Серверы. Понимание принципов работы Linux. Понимание принципов работы и конфигурирование Apache, Nginx",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 486,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/fullstack-php-34250219.html",
+    "title": "Fullstack PHP/Javascript/Mobile Developer",
+    "company": "Леонардо",
+    "description": "Разработка браузерных и гибридных мобильных фронтов. Верстка компонентов. ТестированиеЗнание последних трендов в разработке Android приложений. Опыт коллективной разработки. Умение разбираться в чужом коде. Коммуникабельность…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 487,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/razrabotchik-javascript-36632916.html",
+    "title": "Разработчик JavaScript, TypeScript (3 d компоненты)",
+    "company": "ВГТ",
+    "description": "Разработка компонентов 3d движка для браузерной среды (WebGL). Оптимизация работы на CPU. Оптимизация работы на GPU. Написание…Знание иных языков программирования (желательно C++). Желание развиваться в сфере 3d разработки в любом направлении (промышленность…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 488,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle-full-stack-developer-36389750.html",
+    "title": "Middle Full-stack developer (PHP / JavaScript)",
+    "company": "ВИЗАВИ Консалт",
+    "description": "Участие в оценке задач, принимать участие в проектировании и анализе технических решений вместе с командой. Развивать и поддерживать…Требования:Опыт работы с HTML/CSS/JavaScript на продвинутом уровне (от 3-х лет). Опыт написания и поддержки веб-сервисов,…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 489,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle--36695182.html",
+    "title": "Middle-/ Senior-Front-end-разработчик (React.js)",
+    "company": "СтандартПроект",
+    "description": "Разрабатывать пользовательские интерфейсы с применением JS-фреймворков. Делать компонентную адаптивную верстку по BEM, разрабатывать…Знание современного нативного JS (модули, классы, функциональный подход). От 2-х лет профессиональной разработки больших…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 490,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/node-js-developer-36691116.html",
+    "title": "Node js developer",
+    "company": "Грандстафф",
+    "description": "Участие в разработке ПО, позволяющего организовать эффективную и оперативную систему уведомлений участников бизнес-процесса…Знание Type-Graphql, Tslint, Type-di, Jest, Git. Работа с реляционными и документо-ориентированными БД: PostgreSQL, MongoDB",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 491,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/fullstack-razrabotchik-na-node-36464361.html",
+    "title": "Fullstack-разработчик на Node.Js, Angular.Js",
+    "company": "Мой Класс",
+    "description": "Выполнение поставленных задач в согласованный срокЗнание стека. NodeJS. PostgreSQL. Желательно: expressJS, sequelizeJS, koa.js. Готовность разбираться в чужом коде и выполнять…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 492,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/frontend-developer-vue-36464311.html",
+    "title": "Frontend-developer Vue.js",
+    "company": "Smart Hiring PRO",
+    "description": "Разработка и развитие платформы компании. Разработка новых продуктов. Поддержка существующихЗнание UNIX на уровне пользователя, опыт работы с bash, NGINX. Опыт использования Docker для Dev и Production окружений. SSR…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 493,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/full-stack-razrabotchik-36596770.html",
+    "title": "Full-stack разработчик (React, Node.js)",
+    "company": "Neattech",
+    "description": "Задачи для Full-Stack (React, Node.js). Проектирование архитектуры приложения и контроль следования ей. Управление техническим…В данный момент мы находимся в поиске опытного и талантливого Full-stack (React, Node.js) разработчика, который заинтересован…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 494,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/front-end-developer-36581566.html",
+    "title": "Front-End Developer (Vue.js)",
+    "company": "TR Logic LLC",
+    "description": "Разработка, тестирование и поддержка проекта на Vue.js. Разработка модулей к существующим проектамОпыт работы с JavaScript или TypeScript. Уверенное знание HTML, CSS и основных принципов адаптивной верстки. Понимание базовых…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 495,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/programmist-middle-36643644.html",
+    "title": "Программист middle (js, php) интеграция с внешними системами",
+    "company": "Айпителефон",
+    "description": "Написание кода. Разработка интеграций и регулярное обновление между нашим сервисом и другими платформами. Взаимодействие…Понимание принципов работы Linux, знание стандартных утилит, базовые навыки работы bash. Построение API и работа с чужим…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 496,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/full-stack-razrabotchik-36404282.html",
+    "title": "Full-Stack-разработчик (React/Node.js)",
+    "company": "WSoft (Winfinity)",
+    "description": "Опыт работы в коммерческой разработке Node.js+express от 2-х лет. Опыт коммерческой разработки на React от 2-х лет. Опыт…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 497,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/middle-vue-36555464.html",
+    "title": "Middle Vue.JS разработчик / Frontend-разработчик",
+    "company": "Московский завод Физприбор",
+    "description": "Активное участие в процессе разработки системы автоматизированного проектирования алгоритмов управления технологическими…Опыт работы Vue.js. Знание HTML, CSS, JavaScript, Git. Знание и применение паттернов проектирования в разработке. Желание…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 498,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/web-razrabotchik-36353472.html",
+    "title": "Web-разработчик",
+    "company": "РозТех",
+    "description": "Разработка и поддержка web проектов компании (сайты, интернет-магазин, интернет-витрины, корпоративный портал, e-mail рассылки)Знание основ Linux на уровне работы с консолью. Хорошее знание с js и фреймворка jquery",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 499,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/fullstack-razrabotchik-36457440.html",
+    "title": "Fullstack-разработчик",
+    "company": "MarketGuru",
+    "description": "Разработка backend и frontend части веб-приложения в проекте и его подпроектах, используя новые и современные технологииОпыт коммерческой разработки не менее 3 лет. Хорошие письменные и устные навыки общения. Умение читать и разбираться документации…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 500,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/html-verstalschik-36616841.html",
+    "title": "HTML-верстальщик",
+    "company": "Осьминожка",
+    "description": "Верстать сайты и пользовательские веб-интерфейсы различной сложности. Встраивать готовые JS-скрипты и уметь их кастомизироватьУмение в точности воспроизводить дизайн (отступы, стили текста, тени, градиенты, бордеры, радиусы и т.д). Идеальное владение…",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 501,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000051575",
+    "title": " JavaScript разработчик",
+    "company": "Sportrecs",
+    "description": "Фронтенд, Старший (Senior) · JavaScript · Node.js · ReactJS · GraphQL · HTML · CSS",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 502,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000069562",
+    "title": "JavaScript Developer",
+    "company": "Гринатом",
+    "description": "Бэкенд, Средний (Middle) · JavaScript · HTML · CSS · ReactJS · Node.js · Typescript · MobX",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 503,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000056268",
+    "title": "JavaScript разработчик (React)",
+    "company": "Баланс-Платформа",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · ReactJS",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 504,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000066216",
+    "title": "JavaScript Developer",
+    "company": "JuicyScore",
+    "description": "Фронтенд · JavaScript · Saas · CSS · Sass · Vue.js · HTML · Разработка через тестирование",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 505,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000062910",
+    "title": "Разработчик JavaScript",
+    "company": "ТЭК электроникс",
+    "description": "Фронтенд, Старший (Senior) · JavaScript · MySQL · HTML · CSS · C# · Typescript · Java · Node.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 506,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073197",
+    "title": "Developer JavaScript (Node.js)",
+    "company": "Лаборатория Касперского",
+    "description": "Разработка ПО · Node.js · JavaScript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 507,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073486",
+    "title": "Senior JavaScript Developer",
+    "company": "Spotware Systems",
+    "description": "Фронтенд, Старший (Senior) · ReactJS · Typescript · Redux · JavaScript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 508,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073336",
+    "title": "Разработчик JavaScript (Товары, Маркетплейс)",
+    "company": "OZON",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · Vue.js · ReactJS · Angular · Nuxt.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 509,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073853",
+    "title": "Frontend-разработчик Javascript",
+    "company": "InfoWatch",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · HTML · CSS · Coffeescript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 510,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000057787",
+    "title": "Fullstack JavaScript Developer",
+    "company": "Magora Systems",
+    "description": "Разработка ПО · ReactJS · Node.js · JavaScript · Angular",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 511,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074036",
+    "title": "Frontend-разработчик Javascript + Angular",
+    "company": "InfoWatch",
+    "description": "Фронтенд, Старший (Senior) · JavaScript · Angular",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 512,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000055939",
+    "title": "Javascript разработчик (React)",
+    "company": "Tennisi",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · Git · ReactJS · Scss · Redux · HTML · CSS · Twitter Bootstrap",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 513,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000063848",
+    "title": "Fullstack developer (Oracle + JavaScript)",
+    "company": "Sportmaster Lab",
+    "description": "Разработка ПО, Старший (Senior) · Oracle plsql · JavaScript · Vue.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 514,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074141",
+    "title": "Программист Javascript с естественно-научным образованием",
+    "company": "Lumiprobe",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · Vue.js · Python · PHP",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 515,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073635",
+    "title": "Разработчик JavaScript, Личный кабинет продавца/Доставка",
+    "company": "OZON",
+    "description": "Фронтенд, Средний (Middle) · Vue.js · JavaScript · Webpack · Git · Typescript · Паттерны проектирования",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 516,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000068000",
+    "title": "Fullstack javascript разработчик (React, Node.js, Nest.js)",
+    "company": "CORE",
+    "description": "Разработка ПО, Старший (Senior) · JavaScript · Git · ReactJS · NestJS · MongoDB · Node.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 517,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000072447",
+    "title": "Fullstack javascript developer",
+    "company": "Леруа Мерлен",
+    "description": "Разработка ПО, Средний (Middle) · Node.js · ReactJS · Typescript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 518,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000069085",
+    "title": "Преподаватель JavaScript в очную школу программирования (node/ react)",
+    "company": "Elbrus Coding Bootcamp",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · ExpressJS · Node.js · ReactJS · MongoDB · ООП · Git · JQuery",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 519,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074201",
+    "title": "Middle-frontend разработчик (React.js)",
+    "company": "А5000 Event Solutions",
+    "description": "Фронтенд, Средний (Middle) · JavaScript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 520,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000074293",
+    "title": "Senior Frontend-разработчик (React)",
+    "company": "МегаФон",
+    "description": "Фронтенд, Старший (Senior) · JavaScript · ReactJS · Redux",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 521,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000069133",
+    "title": "Fullstack Developer (KasperskyOS)",
+    "company": "Лаборатория Касперского",
+    "description": "Разработка ПО · JavaScript · Node.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 522,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000070392",
+    "title": "Senior Frontend разработчик (Vue)",
+    "company": "Junto",
+    "description": "Фронтенд, Старший (Senior) · JavaScript · Vue.js",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 523,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000073108",
+    "title": "Developer",
+    "company": "Лаборатория Касперского",
+    "description": "Разработка ПО · JavaScript · ReactJS",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 524,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000072261",
+    "title": "JS разработчик",
+    "company": "HR Prime",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · Vue.js · Typescript",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 525,
+  "fields": {
+    "url": "https://career.habr.com//vacancies/1000068586",
+    "title": "Frontend-разработчик",
+    "company": "Банк России",
+    "description": "Фронтенд, Средний (Middle) · JavaScript · Git · SQL · Angular · JQuery",
+    "city": 1,
+    "language": 2,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 526,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43369651",
+    "title": "Junior Python developer в Вологде",
+    "company": "ООО ТЛ Групп",
+    "description": "Разработка пользовательских веб-сервисов. Написание unit тестов. Написание документации по доработанному функционалу. Доработка отдельных частей системы в соотв. с тех. ",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 527,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/38821917",
+    "title": "Web-программист Python / JS (консультант по вопросам разработки серверной составляющей ИС ОРСИС УД)",
+    "company": "Администрация города Вологды",
+    "description": "Должность муниципальной службы: консультант по вопросам разработки серверной составляющей информационных систем отдела разработки и сопровождения информационных систем Управления делами Администрации...",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 528,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43796383",
+    "title": "DevOps/SRE Specialist",
+    "company": "iSpring",
+    "description": "Работали с Docker, Kubernetes в production-среде. Строили CI/CD процессы. Внедряли/сопровождали системы мониторинга/логгирования (Prometheus, Grafana, Zabbix, ELK). ",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 529,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43813982",
+    "title": "WEB программист",
+    "company": "ЗАВОД ГОТОВЫХ ТЕПЛИЦ",
+    "description": "Разрабатывать пользовательские веб-сервисы. - Разрабатывать backend и fronend части. - Поддерживать функционал сайта.",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 530,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43745303",
+    "title": "Главный специалист по системному администрированию",
+    "company": "ООО ПИИ Севзапдорпроект",
+    "description": "Администрирование AD, DNS. Администрирование файловых серверов. Администрирование кластера 1С. Администрирование RDS серверов (4 филиала в разных городах). Squid. ",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 531,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43425402",
+    "title": "WEB программист",
+    "company": "TASK MPS (ИП Москвитин Петр Сергеевич)",
+    "description": "Компания TASK MPS - разработка мобильного приложения, спец.ресурсов и сайтов. - Разрабатывать пользовательские веб-сервисы. - Разрабатывать backend и fronend части. - ",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 532,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43247083",
+    "title": "Инженер-программист",
+    "company": "ООО Экодрев Групп",
+    "description": "Разработка новых и доработка существующих приложении для промышленной автоматизации и систем машинного зрения. Разработка систем 3D сканирования. Систем распознавания.",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 533,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43266128",
+    "title": "Инженер-электронщик",
+    "company": "ООО Экодрев Групп",
+    "description": "Разработка новых и доработка существующих приложении для промышленной автоматизации и систем машинного зрения. Разработка систем 3D сканирования. Систем распознавания.",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 534,
+  "fields": {
+    "url": "https://vologda.hh.ru/vacancy/43183940",
+    "title": "Специалист службы поддержки (с техническими знаниями)",
+    "company": "Яндекс",
+    "description": "Отвечать на сообщения пользователей по почте и в чатах. Консультировать их о вопросах, связанных с Яндексом. Передавать информацию разработчикам и...",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.vacancy",
+  "pk": 535,
+  "fields": {
+    "url": "https://www.superjob.ru//vakansii/qa-ingineer-36471589.html",
+    "title": "QA ingineer",
+    "company": "ПиццаСофт",
+    "description": "Участие в разработке программного обеспечения в составе SCRUM-команды, формирование требований к новому функционалу и планирование…Понимание жизненного цикла разработки ПО. Знание основ тестирования ПО. Базовые знания того, как устроен современный web,…",
+    "city": 3,
+    "language": 1,
+    "timestamp": "2021-04-13"
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 2,
+  "fields": {
+    "city": 1,
+    "language": 1,
+    "url_data": {
+      "hh": "https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&text=Python&from=suggest_post",
+      "habr_job": "https://career.habr.com/vacancies?city_id=678&page=1&skills[]=446&type=all",
+      "superjob": "https://www.superjob.ru/vacancy/search/?keywords=Python&geo%5Bt%5D%5B0%5D=4"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 3,
+  "fields": {
+    "city": 1,
+    "language": 2,
+    "url_data": {
+      "hh": "https://hh.ru/search/vacancy?area=1&fromSearchLine=true&st=searchVacancy&text=JavaScript",
+      "habr_job": "https://career.habr.com/vacancies?city_id=678&q=JavaScript&type=all",
+      "superjob": "https://www.superjob.ru/vacancy/search/?keywords=JavaScript&geo%5Bt%5D%5B0%5D=4"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 4,
+  "fields": {
+    "city": 2,
+    "language": 2,
+    "url_data": {
+      "hh": "https://spb.hh.ru/search/vacancy?area=2&fromSearchLine=true&st=searchVacancy&text=JavaScript&customDomain=1",
+      "habr_job": "https://career.habr.com/vacancies?city_id=679&q=JavaScript&type=all",
+      "superjob": "https://spb.superjob.ru/vacancy/search/?keywords=JavaScript"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 5,
+  "fields": {
+    "city": 3,
+    "language": 2,
+    "url_data": {
+      "hh": "https://vologda.hh.ru/search/vacancy?area=25&fromSearchLine=true&st=searchVacancy&text=JavaScript&customDomain=1",
+      "habr_job": "https://career.habr.com/vacancies?city_id=691&q=JavaScript&type=all",
+      "superjob": "https://vologda.superjob.ru/vacancy/search/?keywords=JavaScript"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 6,
+  "fields": {
+    "city": 2,
+    "language": 1,
+    "url_data": {
+      "hh": "https://vologda.hh.ru/search/vacancy?area=25&fromSearchLine=true&st=searchVacancy&text=JavaScript&customDomain=1",
+      "habr_job": "https://career.habr.com/vacancies?city_id=691&q=JavaScript&type=all",
+      "superjob": "https://vologda.superjob.ru/vacancy/search/?keywords=JavaScript"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 7,
+  "fields": {
+    "city": 3,
+    "language": 1,
+    "url_data": {
+      "hh": "https://vologda.hh.ru/search/vacancy?clusters=true&area=25&enable_snippets=true&salary=&st=searchVacancy&text=Python",
+      "habr_job": "https://career.habr.com/vacancies?city_id=691&q=Python&type=all",
+      "superjob": "https://vologda.superjob.ru/vacancy/search/?keywords=Python"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 8,
+  "fields": {
+    "city": 3,
+    "language": 3,
+    "url_data": {
+      "hh": "https://vologda.hh.ru/search/vacancy?clusters=true&area=25&enable_snippets=true&salary=&st=searchVacancy&text=Java",
+      "habr_job": "https://career.habr.com/vacancies?city_id=691&q=Java&type=all",
+      "superjob": "https://vologda.superjob.ru/vacancy/search/?keywords=Java"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 9,
+  "fields": {
+    "city": 2,
+    "language": 3,
+    "url_data": {
+      "hh": "https://spb.hh.ru/search/vacancy?clusters=true&area=2&enable_snippets=true&salary=&st=searchVacancy&text=Java&customDomain=1",
+      "habr_job": "https://career.habr.com/vacancies?city_id=679&q=Java&type=all",
+      "superjob": "https://spb.superjob.ru/vacancy/search/?keywords=Java&click_from=facet"
+    }
+  }
+},
+{
+  "model": "scraping.url",
+  "pk": 10,
+  "fields": {
+    "city": 1,
+    "language": 3,
+    "url_data": {
+      "hh": "https://hh.ru/search/vacancy?clusters=true&area=1&enable_snippets=true&salary=&st=searchVacancy&text=Java&customDomain=1",
+      "habr_job": "https://career.habr.com/vacancies?city_id=678&q=Java&type=all",
+      "superjob": "https://www.superjob.ru/vacancy/search/?keywords=Java&geo%5Bt%5D%5B0%5D=4&click_from=facet"
+    }
+  }
+}
+]

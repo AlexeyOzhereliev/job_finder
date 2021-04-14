@@ -1,0 +1,29 @@
+{% extends 'base.html' %}
+
+{% block title %} Home {% endblock title %}
+
+{% block content %}
+
+<div class="row">
+    <div class="col my-3"><h1 class="text-center my-3">Сервис по сбору и рассылке вакансий.</h1>
+    </div>
+</div>
+</div>
+<div class="row">
+    <div class="col-md-8 mx-auto">
+        <p>Данное приложение хранит вакансии собранные за последние сутки с сайтов hh.ru, superjob.ru, сareer.habr.com.
+            Вы можете подписаться на получение ежедневной рассылки, для этого вам необходимо <a
+                    href="{% url 'accounts:register' %}">зарегестрироваться</a>.
+        </p>
+        <h4>Для просмотра доступных вакансий, заполните форму по одному из полей.</h4>
+        <form action="{% url 'list' %}" method="get">
+            <div class="mb-3">
+                {{ form.as_p }}
+            </div>
+            <button type="submit" class="btn btn-primary">Найти</button>
+        </form>
+    </div>
+</div>
+{% endblock %}
+
+
